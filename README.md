@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200"/>
+
+  <p align="center">
+  <a href="https://www.linkedin.com/in/nikol-rusyn-0439841a4">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  </p>
+  
+ </div>
 </div>
